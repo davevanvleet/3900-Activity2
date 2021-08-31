@@ -11,3 +11,7 @@ pages.
 
 The website also contains a hamburger icon that is present when accessed via a mobile device. This will allow
 for a greater user experience when accessing the site from other devices other than a laptop or desktop computer.
+
+There are multiple links that have been added into the various buttons and links that are provided throughout the
+site. There have been sites linked such as my personal Linkedin page, the github repository, and the UNO home
+page.
